@@ -1,0 +1,16 @@
+https://assetstore.unity.com/packages/2d/characters/pixel-adventure-2-155418
+https://assetstore.unity.com/packages/2d/textures-materials/free-forest-pack-68957
+https://assetstore.unity.com/packages/2d/characters/free-platformer-tileset-182519
+https://assetstore.unity.com/packages/2d/characters/pixel-adventure-2-155418
+https://assetstore.unity.com/packages/2d/gui/icons/simple-button-set-01-153979
+
+https://www.youtube.com/watch?v=jykJeOT8xGM - Saving to file
+https://www.youtube.com/watch?v=jvfs26jBIu4 - Saving to file
+https://www.youtube.com/watch?v=CUv14VhH1oU - Moving Platform Tutorial
+https://www.youtube.com/watch?v=5EesvCG9_FA&t=22s - TRAPS
+https://metanit.com/sharp/tutorial/
+https://www.youtube.com/watch?v=TcranVQUQ5U&t=2s - PLAYER MOVEMENT
+https://www.youtube.com/watch?v=NGqoobCxfmA - Falling platform
+https://www.youtube.com/watch?v=E_c539LwXuE -How To Detect Ground Check
+https://www.youtube.com/watch?v=5EesvCG9_FA&t=159s - TRAPS
+https://www.youtube.com/watch?v=8aSzWGKiDAM - Moving Platform Tutorial
